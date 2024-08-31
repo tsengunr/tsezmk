@@ -42,5 +42,5 @@ ZMK_UNICODE_PAIR(mn_yeyo ,    N0 , N4 , N3 , N5 ,    N0 , N4 , N5 , N1) // е/ё
 ZMK_UNICODE_PAIR(mn_tone ,    N0 , N4 , N4 ,  C ,    N0 , N4 , N4 ,  A) // ь/ъ
 
 // Symbols
-ZMK_UNICODE_PAIR(tugrik  ,    N2 , N0 ,  A ,  E)                        // ₮
+ZMK_UNICODE_SINGLE(tugrik  ,    N2 , N0 ,  A ,  E)                        // ₮
 ZMK_UNICODE_PAIR(4_tugrik,    N0 , N0 , N3 , N4 ,    N2 , N0 ,  A ,  E) // 4/₮
